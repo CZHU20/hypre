@@ -22,6 +22,7 @@ set(SRCS
   F90_HYPRE_parcsr_flexgmres.c
   F90_HYPRE_parcsr_lgmres.c
   F90_HYPRE_parcsr_hybrid.c
+  F90_HYPRE_parcsr_ilu.c
   F90_HYPRE_parcsr_int.c
   F90_HYPRE_parcsr_ParaSails.c
   F90_HYPRE_parcsr_pcg.c

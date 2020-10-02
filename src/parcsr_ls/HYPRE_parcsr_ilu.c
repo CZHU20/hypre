@@ -146,7 +146,7 @@ HYPRE_ILUSetMaxNnzPerRow( HYPRE_Solver solver, HYPRE_Int nzmax )
    return hypre_ILUSetMaxNnzPerRow( solver, nzmax );
 }
 /*--------------------------------------------------------------------------
- * HYPRE_ILUSetFillLevel
+ * HYPRE_ILUSetLevelOfFill
  *--------------------------------------------------------------------------*/
 HYPRE_Int
 HYPRE_ILUSetLevelOfFill( HYPRE_Solver solver, HYPRE_Int lfil )
